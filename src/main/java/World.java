@@ -4,6 +4,6 @@ public class World {
         return super.toString();
     }
     public void test(){
-
+    System.out.print("sssss");
     }
 }
