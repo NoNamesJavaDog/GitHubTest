@@ -6,4 +6,8 @@ public class World {
     public void test(){
     System.out.print("sssss");
     }
+    public void test(){
+        System.out.print("sssss");
+    }
+
 }
